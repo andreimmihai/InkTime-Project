@@ -1,0 +1,4 @@
+ - Hardware
+  |-- fișierul schematic (.sch)
+  |-- fișierul cu board-ul (.brd)
+  |-- print-out al fișierului schematic (.pdf)
