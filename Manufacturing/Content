@@ -1,0 +1,4 @@
+ - Manufacturing
+  |-- gerbers.zip
+  |-- fișierul Bill of Materials (.bom)
+  |-- fișierul Pick and Place (.cpl)
